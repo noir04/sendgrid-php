@@ -3,6 +3,18 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+[2021-12-15] Version 7.11.1
+---------------------------
+**Library - Fix**
+- [PR #1066](https://github.com/sendgrid/sendgrid-php/pull/1066): Suppress deprecation warnings in PHP 8.1. Thanks to [@andreas-aeschlimann](https://github.com/andreas-aeschlimann)!
+
+
+[2021-11-17] Version 7.11.0
+---------------------------
+**Library - Feature**
+- [PR #1065](https://github.com/sendgrid/sendgrid-php/pull/1065): add spam, bounce and unsubscribe bypass management filters. Thanks to [@shwetha-manvinkurke](https://github.com/shwetha-manvinkurke)!
+
+
 [2021-10-18] Version 7.10.0
 ---------------------------
 **Library - Feature**
